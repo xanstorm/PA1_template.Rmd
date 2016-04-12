@@ -1,7 +1,7 @@
 ---
 title: "Activity Analysis"
 author: "Stephen Hobbs"
-date: "April 5, 2016"
+date: "April 12, 2016"
 output: html_document
 ---
 Download the data set from this url: https://www.coursera.org/learn/reproducible-research/peer/gYyPt/course-project-1
